@@ -1,1 +1,0 @@
-Mikroişlemciler dersi için yapılmış bir projedir. Kullanılan malzemeler ile 1.5 metreye kadar dijital ölçüm yapımı sağlamaktadır.
